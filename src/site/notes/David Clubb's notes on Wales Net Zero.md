@@ -4,20 +4,17 @@
 
 
 ## Wales Net Zero notes
-Contents:
+### Index
 
-1. 
+ - [[Wales\|Wales]]
+	 - [[Net Zero Wales\|Net Zero Wales]]
+	 - [[WNZ2035 Group\|WNZ2035 Group]]
+ - [[International comparisons\|International comparisons]]
+	 - [[Systems Change Lab\|Systems Change Lab]]
+	 - [[Ireland\|Ireland]]
+		 - [[Ireland Climate Action Plan 2023\|Ireland Climate Action Plan 2023]]
+		 - [[Just Transition Commission Ireland\|Just Transition Commission Ireland]]
+	 - [[Scotland\|Scotland]]
+		 - [[Scotland Climate Change Plan\|Scotland Climate Change Plan]]
+		 - [[Just Transition Commission Scotland\|Just Transition Commission Scotland]]
 
-### International comparisons
-- Page linking to different [[International comparisons\|International comparisons]]
-
-### Wales Net Zero 2035 Group
-
-This group was brought together to advise [Welsh Government](https://gov.wales) on strategic options for reaching net zero by 2035.
-
-Membership includes:
-- [David Clubb](https://clubb.cymru/)
-- [Eurgain Powell]
-- [Jane Davidson]
-- [Andy Regan]
-- 
