@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/just-transition-commissions/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/just-transition-commissions/"}
 ---
 
 
