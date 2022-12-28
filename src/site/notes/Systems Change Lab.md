@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/systems-change-lab/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/systems-change-lab/"}
 ---
 
 
