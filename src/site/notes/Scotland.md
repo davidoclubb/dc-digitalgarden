@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotland/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/scotland/"}
 ---
 
 
