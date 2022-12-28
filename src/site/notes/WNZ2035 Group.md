@@ -5,7 +5,7 @@
 
 ## Wales Net Zero 2035 Group
 
-This group was brought together to advise [[Welsh Government\|Welsh Government]] on strategic options for reaching net zero by 2035.
+This group was brought together to advise [Welsh Government](https://gov.wales) on strategic options for reaching net zero by 2035.
 
 Membership includes:
 - [David Clubb]
