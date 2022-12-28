@@ -15,6 +15,7 @@
 	 - [[Ireland\|Ireland]]
 		 - [[Ireland Climate Action Plan 2023\|Ireland Climate Action Plan 2023]]
 		 - [[Just Transition Commission Ireland\|Just Transition Commission Ireland]]
+	 - [[New Zealand\|New Zealand]]
 	 - [[Scotland\|Scotland]]
 		 - [[Scotland Climate Change Plan\|Scotland Climate Change Plan]]
 		 - [[Just Transition Commission Scotland\|Just Transition Commission Scotland]]
