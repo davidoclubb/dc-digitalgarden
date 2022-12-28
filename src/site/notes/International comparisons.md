@@ -5,6 +5,7 @@
 
 ### Countries of interest
 - [[Ireland\|Ireland]]
+- [[New Zealand\|New Zealand]]
 - [[Scotland\|Scotland]]
 - [[Wales\|Wales]]
 
