@@ -5,8 +5,7 @@
 
 - [Climate Action Plan 2023](https://www.gov.ie/en/publication/7bd8c-climate-action-plan-2023/) 284 pages
 	- - [Climate Action Plan press release](https://www.gov.ie/en/press-release/c2114-government-launches-updated-climate-action-plan-accelerating-ambition-in-reaching-climate-goals/#main)
-
-- Just Transition Commission 
+- [[Just Transition Commission Ireland\|Just Transition Commission Ireland]] to be established in 2023
 
 ### CAP2023 summary
 #### Renewables (75% reduction in carbon emissions)
