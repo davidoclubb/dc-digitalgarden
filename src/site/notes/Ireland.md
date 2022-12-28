@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ireland/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ireland/"}
 ---
 
 
