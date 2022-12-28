@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ireland-climate-action-plan-2023/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/ireland-climate-action-plan-2023/"}
 ---
 
 
