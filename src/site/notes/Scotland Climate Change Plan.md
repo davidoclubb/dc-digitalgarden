@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scotland-climate-change-plan/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/scotland-climate-change-plan/"}
 ---
 
 
