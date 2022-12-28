@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/international-comparisons/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/international-comparisons/"}
 ---
 
 
