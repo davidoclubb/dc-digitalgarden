@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/wales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/wales/"}
 ---
 
 
 #### Policies
 - [[Net Zero Wales\|Net Zero Wales]]
 - [Draft budget](https://www.gov.wales/draft-budget-2023-2024)
-	- oeu
+	- 
 - [Llwybr Newydd](https://www.gov.wales/llwybr-newydd-wales-transport-strategy-2021-html)
 
 Other useful references
@@ -14,6 +14,6 @@ Other useful references
 - 
 
 #### Organisations directly involved
-- [[WNZ2035 Group\|WNZ2035 Group]]
+- [[David Clubb's notes on Wales Net Zero\|David Clubb's notes on Wales Net Zero]]
 - [[Just Transition Group Wales\|Just Transition Group Wales]]
 - 
