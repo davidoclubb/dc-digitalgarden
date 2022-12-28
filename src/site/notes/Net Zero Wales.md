@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/net-zero-wales/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/net-zero-wales/"}
 ---
 
 
