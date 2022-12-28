@@ -14,6 +14,6 @@ Other useful references
 - 
 
 #### Organisations directly involved
-- [[David Clubb's notes on Wales Net Zero\|David Clubb's notes on Wales Net Zero]]
+- [[Notes on Wales Net Zero\|Notes on Wales Net Zero]]
 - [[Just Transition Group Wales\|Just Transition Group Wales]]
 - 
